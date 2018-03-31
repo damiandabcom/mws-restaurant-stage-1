@@ -305,6 +305,10 @@ nav h1 a {
     width: 100%;
   }
 
+  #restaurant-name {
+    margin: 0px 0 15px;
+  }
+
   #restaurant-cuisine {
     width: 100%;
     margin: 20px 0 0;
@@ -318,11 +322,10 @@ nav h1 a {
     padding: 5px; 
   }
   #reviews-list li {
-
-    
-   
     margin: 0 auto;
   }
+
+  
 
 } 
 
