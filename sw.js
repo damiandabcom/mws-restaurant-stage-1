@@ -1,5 +1,5 @@
 
-var staticCacheName = 'restaurant-cache-v1';
+var staticCacheName = 'restaurant-cache-v2';
 
 /* Store  assets in cache */
 self.addEventListener('install', (event) => {
