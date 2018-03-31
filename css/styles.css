@@ -324,6 +324,10 @@ nav h1 a {
     margin: 0 auto;
   }
 
+  #restaurant-img {
+    width: 70%;
+  }
+
 } 
 
 @media (max-width: 480px) {
@@ -334,6 +338,10 @@ nav h1 a {
 
   nav h1 a {
     font-size: 0.7em;
+  }
+
+  #restaurant-img {
+    width: 100%;
   }
 
 }
